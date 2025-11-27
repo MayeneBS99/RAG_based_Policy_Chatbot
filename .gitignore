@@ -1,0 +1,4 @@
+RAG_Chatbot_env/
+*pyc
+__pycache__/
+data/chroma_db/
